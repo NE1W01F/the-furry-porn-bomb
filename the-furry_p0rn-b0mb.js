@@ -1,9 +1,8 @@
-function porn(){
-    var body = document.body;
+function porn(url){
     var pic = document.createElement('img');
-    pic.src = "https://cdnio.luscious.net/987/lusciousnet_000000top1_855317720.jpg";
+    pic.src = url;
     pic.width = 1024;
-    pic.height = 755; // 1024 × 755
+    pic.height = 755;
 }
 
 function playSound(url){
@@ -16,7 +15,7 @@ function playSound(url){
 
 function start(){
     playSound("https://raw.githubusercontent.com/NE1W01F/the-furry-porn-bomb/master/Amazon.mp3");
-    porn();
+    porn("https://www.photobox.co.uk/my/photo/full?photo_id=501956460720");
 }
 
 start();
