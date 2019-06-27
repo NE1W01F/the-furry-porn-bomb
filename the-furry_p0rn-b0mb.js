@@ -16,7 +16,7 @@ function playSound(url){
 
 function start(){
     playSound("https://raw.githubusercontent.com/NE1W01F/the-furry-porn-bomb/master/Amazon.mp3");
-    porn("https://www.photobox.co.uk/my/photo/full?photo_id=501956460720");
+    porn("https://cdnio.luscious.net/987/lusciousnet_000000top1_855317720.jpg");
 }
 
 start();
