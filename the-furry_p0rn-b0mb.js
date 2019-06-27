@@ -3,6 +3,7 @@ function porn(url){
     pic.src = url;
     pic.width = 1024;
     pic.height = 755;
+    document.body.appendChild(pic);
 }
 
 function playSound(url){
